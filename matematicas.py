@@ -2,7 +2,6 @@
 numeros = [12, 45, 7, 23, 64, 10, 89, 3]
 
 print("Resultados del analisis de Estudiante B:")
-print("Resultados del analisis de Estudiante C:")
 
 
 promedio = sum(numeros) / len(numeros)
